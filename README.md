@@ -107,10 +107,6 @@ This list will show and explain how to filter for the various internet traffic t
 <img src="https://i.imgur.com/1ONtdC0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
 </p>
 <br />
 
@@ -136,10 +132,11 @@ This list will show and explain how to filter for the various internet traffic t
 
  - In WireShark, clear DHCP and filter for RDP traffic only (tcp.port ==3389)
 
-
+<img src="https://i.imgur.com/QpVnCxV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
  - Observe the constant spam of traffic that is transmitted from one computer to another
 
+<img src="https://i.imgur.com/bumic91.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <h4>Close the Remote Desktop Connection and delet the Resource groups</h4>
 
